@@ -13,6 +13,6 @@
     "chalk": "^5.0.1",
     "inquirer": "^8.2.2",
     "nanospinner": "^1.1.0",
-    "socket.io-client": "^4.4.1"
+    "socket.io-client": "^4.6.1"
   }
 }
